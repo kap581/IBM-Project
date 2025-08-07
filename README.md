@@ -43,7 +43,7 @@ _The agent correctly references the custom document (`Crop Recommendation.txt`) 
 ---
 
 ### 5. Deployment Confirmation  
-![Deployment](Result Screenshot/Deployment.png)  
+![Deployment](ResultScreenshot/Deployment.png)  
 _Screenshot showing the successful deployment status in IBM Cloud Agent Lab._
 
 ---
