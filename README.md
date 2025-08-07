@@ -16,28 +16,28 @@ It leverages Retrieval-Augmented Generation (RAG) and IBM Granite models, deploy
 
 ### 1. Agent Test – Crop Recommendation  
 **Query:** What crop is best for Kharif season in Maharashtra?  
-![AgentTest1](Result Screenshot/AgentTest1.png)  
+![AgentTest1](ResultScreenshot/AgentTest1.png)  
 _The agent successfully recommends drought-tolerant crops like jowar based on the region and season._
 
 ---
 
 ### 2. Agent Test – Soil Preparation  
 **Query:** How should I prepare soil for wheat in Punjab?  
-![AgentTest2](Result Screenshot/AgentTest2.png)  
+![AgentTest2](ResultScreenshot/AgentTest2.png)  
 _The AI provides relevant soil preparation tips for wheat in the Rabi season._
 
 ---
 
 ### 3. Weather Tool Integration  
 **Query:** What is the weather in Pune today?  
-![WeatherTest1](Result Screenshot/WeatherTest1.png)  
+![WeatherTest1](ResultScreenshot/WeatherTest1.png)  
 _Real-time weather information is retrieved and used in the agent’s response._
 
 ---
 
 ### 4. Knowledge Base Retrieval  
 **Query:** Please cite the source from your knowledge for the drought-tolerant crop in Maharashtra.  
-![KnowledgeTest](Result Screenshot/KnowledgeTest.png)  
+![KnowledgeTest](ResultScreenshot/KnowledgeTest.png)  
 _The agent correctly references the custom document (`Crop Recommendation.txt`) from the uploaded knowledge base._
 
 ---
